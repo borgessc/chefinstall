@@ -1,0 +1,8 @@
+name 'icingamon'
+maintainer 'Sergio Borges'
+maintainer_email 'borgessc@gmail.com'
+license 'all_rights'
+description 'Installs/Configures icingamon'
+long_description 'Installs/Configures icingamon'
+version '0.1.2'
+depends 'apt'
